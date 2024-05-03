@@ -35,3 +35,9 @@
     border: 0.25vmin solid black;
     border-radius: 8px;
 }
+
+.snake {
+    background-color: purple;
+    border: 0.25vmin solid white;
+    border-radius: 12px;
+}
